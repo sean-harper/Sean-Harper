@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sean 👋
 
-<!--
-**sean-harper/Sean-Harper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst → Aspiring Data Scientist 
 
-Here are some ideas to get you started:
+I'm a data professional transitioning from **Data Analytics into Data Science**, with a focus on using Python, SQL, Power BI, statistics, and machine learning to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently strengthening my skills in **Python, Pandas, NumPy, SQL, and Machine Learning** while building practical projects and improving my problem-solving skills.
+
+---
+
+## 🧑‍💻 About Me
+
+* 📊 Former **Data Analyst**
+* 🐍 Currently building my skills in **Python & Data Science**
+* 📚 Learning **Machine Learning and Statistics**
+* 🧠 Interested in turning data into actionable insights
+* 🚀 Building practical projects to strengthen my Data Science portfolio
+* 🎯 Career goal: **Data Scientist**
+
+---
+
+## 📜 Certifications
+
+* **Data Science Course** — In Progress
+* **EY Technology Risk Job Simulation** — [View Certificate](#)
+
+<!-- Add more certifications here -->
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [seansavioharper@gmail.com](#)
+* 🐙 GitHub: (https://github.com/sean-harper)
+
