@@ -21,10 +21,11 @@ Currently strengthening my skills in **Python, Pandas, NumPy, SQL, and Machine L
 
 ## 📜 Certifications
 
-* **Data Science Course** — In Progress
-* **EY Technology Risk Job Simulation** — [View Certificate](#)
-
-<!-- Add more certifications here -->
+* **SQL** — [View Certificate](/Sean%20Savio%20Harper%20(SQL%20certificate).pdf)
+* **Power BI** — [View Certificate](/Sean%20Savio%20Harper%20(Power%20BI%20certificate).pdf)
+* **Excel** — [View Certificate](./Sean%20Savio%20Harper%20%28Excel%20certificate%29.pdf)
+* **Python** — In progress
+* **Data Science** — In progress
 
 ---
 
